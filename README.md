@@ -20,3 +20,7 @@
 
 * JP Ferreira
 * Dewald Viljoen
+
+## Current Position
+
+6:10 - Connecting MongoDB
