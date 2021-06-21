@@ -6,6 +6,15 @@
 
 ## Dependencies
 
+* Express
+* Mongoose
+* Dotenv
+* Helmet
+* Morgan
+
+## Connection
+
+* Post 8800
 
 ## Credits
 
