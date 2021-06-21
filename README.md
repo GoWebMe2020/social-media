@@ -3,6 +3,7 @@
 
 ## Technology
 
+* JavaScript
 
 ## Dependencies
 
@@ -11,6 +12,7 @@
 * Dotenv
 * Helmet
 * Morgan
+* Brcypt
 
 ## Connection
 
@@ -21,6 +23,15 @@
 * JP Ferreira
 * Dewald Viljoen
 
+## Development Status
+
+* Server
+* Connected to MongoDB
+* User Registration
+* Next is Login
+
 ## Current Position
 
-7:42 - Connecting MongoDB
+* Part one - https://www.youtube.com/watch?v=ldGl6L4Vktk
+
+28:57 - Login and Register System
