@@ -23,4 +23,4 @@
 
 ## Current Position
 
-6:10 - Connecting MongoDB
+7:42 - Connecting MongoDB
