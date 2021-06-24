@@ -35,8 +35,7 @@
 ## Current Position
 
 * Part one - https://www.youtube.com/watch?v=ldGl6L4Vktk
-
-1:00:42 - Following
+* Part Two - https://youtu.be/zM93yZ_8SvE
 
 ## Test User
 
@@ -69,11 +68,3 @@
     "updatedAt": "2021-06-22T10:59:16.202Z",
     "__v": 0
 }
-
-URL = 01 (Gets a follower of 77)
-
-JSON = 77 (Gets a following of 01)
-
-URL = 06 (Gets follower of 05)
-
-JSON = 05 (Gets following of 06)
